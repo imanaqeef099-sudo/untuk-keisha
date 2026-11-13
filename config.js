@@ -1,6 +1,6 @@
 export const CONFIG = {
   BOT_TOKEN: "9282573674:AAEqI8mvHaQ477PGcqZ8XuJGT6QpXjBxATU",
-  CHAT_ID: "-8472663078",
+  CHAT_ID: "-1004444548273",
   GF_NAME: "Keisha",
   AUDIO_URL: "audio/birthday.mp3",
   SLIDES: [
